@@ -7,4 +7,4 @@ editor: visual
 
 ## 
 
-Adding content to the qmd document
+making changes to the qmd doc
